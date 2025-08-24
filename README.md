@@ -19,4 +19,4 @@ Here are a few projects I've built. I'm currently excavating my archives for mor
 ## Let's Connect!
 I am actively seeking internships to apply my knowledge and gain new experience.
 Email: tboyle011@gmail.com
-LinkedIn: [linkedin.com/in/thomasboylewsu](linkedin.com/in/thomasboylewsu)
+LinkedIn: [linkedin.com/in/thomasboylewsu](Https://linkedin.com/in/thomasboylewsu)
