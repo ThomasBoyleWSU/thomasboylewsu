@@ -14,7 +14,7 @@ Here are a few projects I've built. I'm currently excavating my archives for mor
 * [Credit Card Fraud Detection](https://github.com/ThomasBoyleWSU/Credit-Fraud-Detection): Engineered multiple predictive models (XGBoost, Random Forest, GLM) to identify fraudulent transactions, achieving an AUCPR of 0.877.
 * Bad Apple in Excel: Turned MS Excel into a flipbook to play a low resolution video of the music video "Bad Apple."
 * Post-Heart Failure Mortality Analysis: Led the development of a logistic regression model in Python to analyze patient data and identify key factors influencing mortality risk.
-* Yahoo Finance Web Scraper: Bulity a python file to extract historical data to a csv file.
+* [Yahoo Finance Web Scraper](https://github.com/ThomasBoyleWSU/Yahoo-Scrape-MATH405): Bulity a python script to extract historical data to a csv file.
 
 ## Let's Connect!
 I am actively seeking internships to apply my knowledge and gain new experience.
