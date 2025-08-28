@@ -11,7 +11,7 @@ I'm a motivated and detail-oriented Data Analytics senior with a 3.9 GPA, on the
 
 ## Featured Projects
 Here are a few projects I've built. I'm currently excavating my archives for more code to add here on GitHub:
-* [Credit Card Fraud Detection](https://github.com/ThomasBoyleWSU/Credit-Fraud-Detection): Engineered multiple predictive models (XGBoost, Random Forest, GLM) to identify fraudulent transactions, achieving an AUCPR of 0.877.
+* [Credit Card Fraud Detection](https://github.com/ThomasBoyleWSU/Credit-Fraud-Detection): Engineered multiple predictive models (XGBoost, Random Forest, GLM) to identify fraudulent transactions, achieving an AUCPR of 0.986.
 * Bad Apple in Excel: Turned MS Excel into a flipbook to play a low resolution video of the music video "Bad Apple."
 * Post-Heart Failure Mortality Analysis: Led the development of a logistic regression model in Python to analyze patient data and identify key factors influencing mortality risk.
 * [Yahoo Finance Web Scraper](https://github.com/ThomasBoyleWSU/Yahoo-Scrape-MATH405): Bulity a python script to extract historical data to a csv file.
